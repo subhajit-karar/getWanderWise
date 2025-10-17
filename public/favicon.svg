@@ -1,0 +1,15 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <g id="logo-icon">
+    <circle cx="60" cy="60" r="35" fill="none" stroke="#e91e63" stroke-width="3"/>
+    <line x1="60" y1="28" x2="60" y2="35" stroke="#e91e63" stroke-width="2" stroke-linecap="round"/>
+    <line x1="60" y1="85" x2="60" y2="92" stroke="#e91e63" stroke-width="2" stroke-linecap="round"/>
+    <line x1="28" y1="60" x2="35" y2="60" stroke="#e91e63" stroke-width="2" stroke-linecap="round"/>
+    <line x1="85" y1="60" x2="92" y2="60" stroke="#e91e63" stroke-width="2" stroke-linecap="round"/>
+    <path d="M 60 45 C 52 45 46 51 46 59 C 46 69 60 80 60 80 C 60 80 74 69 74 59 C 74 51 68 45 60 45 Z" 
+          fill="#e91e63" stroke="#c2185b" stroke-width="2"/>
+    <circle cx="60" cy="59" r="5" fill="white"/>
+    <g transform="rotate(45 60 60)">
+      <path d="M 60 50 L 65 60 L 60 70 L 55 60 Z" fill="#1e293b" opacity="0.6"/>
+    </g>
+  </g>
+</svg>

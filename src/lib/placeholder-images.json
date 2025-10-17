@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "restaurants",
+      "description": "A plate of gourmet food at a restaurant.",
+      "imageUrl": "https://images.unsplash.com/photo-1616671285410-2a676a9a433d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxnb3VybWV0JTIwZm9vZHxlbnwwfHx8fDE3NTk2MjAwNzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gourmet food"
+    },
+    {
+      "id": "hotels",
+      "description": "A luxurious hotel room with a city view.",
+      "imageUrl": "https://images.unsplash.com/photo-1723119832675-0031e0f0408c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxsdXh1cnklMjBob3RlbHxlbnwwfHx8fDE3NTk2NjUxMDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "luxury hotel"
+    },
+    {
+      "id": "attractions",
+      "description": "A well-known city landmark.",
+      "imageUrl": "https://images.unsplash.com/photo-1711955684633-747752d1b792?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjaXR5JTIwbGFuZG1hcmt8ZW58MHx8fHwxNzU5NzAxNTQ2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "city landmark"
+    },
+    {
+      "id": "shops",
+      "description": "The storefront of a charming boutique shop.",
+      "imageUrl": "https://images.unsplash.com/photo-1748963222010-770cfd7213c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzdG9yZWZyb250JTIwYm91dGlxdWV8ZW58MHx8fHwxNzU5NjAxNzk1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "storefront boutique"
+    }
+  ]
+}
